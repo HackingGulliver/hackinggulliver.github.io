@@ -13,5 +13,5 @@ Folgendes möchte ich noch bauen:
 * Motortreiber-Shield für Schrittmotoren
 * LED-Treiber-Shield für viele LEDs, einzeln ansteuerbar (z.B. für Fahrzeugbeleuchtung)
 * Funkfernsteuerung auf Basis 433MHz
-* Steuerung über PS2 oder PS3-Controller
+* Steuerung über PS1 oder PS3-Controller
 
