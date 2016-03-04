@@ -12,6 +12,8 @@ Folgendes möchte ich noch bauen:
 * Motortreiber-Shield für normale Elektromotoren
 * Motortreiber-Shield für Schrittmotoren
 * LED-Treiber-Shield für viele LEDs, einzeln ansteuerbar (z.B. für Fahrzeugbeleuchtung)
+  * Ansteuerung über Shift-Register74HC595, Treiber ULN 2803
+  * Jeweils einzelne Platine für je acht LEDs in der gleichen Farbe mit Vorwiderständen. Serielle Ausgang zur nächsten Platine.
 * Funkfernsteuerung auf Basis 433MHz
 * Steuerung über PS1 oder PS3-Controller
   * Siehe [PSX_Analog Library](https://github.com/kiram9/Arduino_PSX_Analog)
