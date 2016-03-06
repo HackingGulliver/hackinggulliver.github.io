@@ -13,5 +13,5 @@ In der Hack-o-Pedia beschreibe ich alles von bleibendem Wert also Fakten, Fakten
 * [Arduino](Arduino)
 * [(Homebrew) Lego](Lego)
 * [Handwerk](Handwerk)
-* [Aktueller Lagerbestand](Lager)
+* [Inhalt meiner Bastelkiste](Lager)
 
