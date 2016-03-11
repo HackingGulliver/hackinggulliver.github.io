@@ -15,6 +15,10 @@ Ich habe ihn auf verschiedene Arten mit Lego verbunden: einmal mit angeklebter A
 <img src="/images/MotorKlebeadapter1.JPG" alt="Motor geklebt 1" width="400px" />
 <img src="/images/MotorKlebeadapter2.JPG" alt="Motor geklebt 2" width="400px" />
 
+<img src="/images/EinfacherMotorAdapter.png" alt="Adapter Zeichnung" width="400px" />
+
+[Adapter für einfachen Motor](/images/EinfacherMotorAdapter.svg)
+
 TODO Adapter beschreiben, Link zur Adapterzeichnung, Welle beschreiben
 
 ## Der Klemmadapter
@@ -29,6 +33,6 @@ Hier einige Bilder von der geklemmten Variante kombiniert mit einem Rotationssen
 
 TODO Adapter beschreiben, Link zur Adapterzeichnung, Wellenadapter beschreiben
 
-
+Die Adapterplatte ist die Gleiche, wie in der geklebten Variante, wobei es die Löcher nur in der Mitte sowie ganz rechts und ganz links gibt. Das mittlere Loch der Stirnseite hat 6mm Durchmesser, das für die Rückseite 9mm.
 
 
