@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ideenseite
+permalink: /hackopedia/Ideen
 ---
 
 Folgendes möchte ich noch bauen:

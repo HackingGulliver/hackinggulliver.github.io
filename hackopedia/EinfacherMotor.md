@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Einfacher Motor
+permalink: /hackopedia/EinfacherMotor
 ---
 
 Diesen einfachen Elektromotor habe ich vor einigen Jahren recht günstig bei Reichelt erstanden. Schon damals war geplant, dass er in Lego-Modellen eingesetzt werden soll. 
@@ -14,17 +15,19 @@ Ich habe ihn auf verschiedene Arten mit Lego verbunden: einmal mit angeklebter A
 <img src="/images/MotorKlebeadapter1.JPG" alt="Motor geklebt 1" width="400px" />
 <img src="/images/MotorKlebeadapter2.JPG" alt="Motor geklebt 2" width="400px" />
 
-TODO Adapter beschreiben, Link zur Adapterzeichnung
+TODO Adapter beschreiben, Link zur Adapterzeichnung, Welle beschreiben
 
 ## Der Klemmadapter
 
 Hier einige Bilder von der geklemmten Variante kombiniert mit einem Rotationssensoraufbau.
 
+<img src="/images/KlemmMotor_mit_Rotationssensor1.JPG" alt="Motor geklemmt mit Rotationssensor" width="400px" />
 <img src="/images/MotorKlemme1.JPG" alt="Motor geklemmt 1" width="400px" />
 <img src="/images/MotorKlemme2.JPG" alt="Motor geklemmt 2" width="400px" />
 <img src="/images/MotorKlemme3.JPG" alt="Motor geklemmt 3" width="400px" />
 <img src="/images/MotorKlemme4.JPG" alt="Motor geklemmt 4" width="400px" />
 
+TODO Adapter beschreiben, Link zur Adapterzeichnung, Wellenadapter beschreiben
 
 
 

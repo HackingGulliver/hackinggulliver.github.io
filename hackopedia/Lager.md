@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Meine Bastelkiste
+permalink: /hackopedia/Lager
 ---
 
 ## Kürzliche Bestellungen
