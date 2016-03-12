@@ -18,8 +18,8 @@ permalink: /hackopedia/Lager
 | 5 | [A4988](http://www.ebay.de/itm/400942367320) | Schrittmotortreiber | 2.2.2016 | 1,5 Wochen | 10,98 | [fashionfovs](http://www.ebay.de/usr/fashionfovs) |
 | 10 | [28BYJ48](http://www.ebay.de/itm/141496338347) | Schrittmotor | 2.2.2016 | 26.2.2016 | 12,34€ | [tinxi-spain](http://www.ebay.de/usr/tinxi-spain) |
 | 1 | [Multimeter HP-770HC](http://www.amazon.de/dp/B00ZFXAJ3K) | Multimeter | 23.2.2016 | 2 Tage | 39,95€ | Komerci (über Amazon) |
-| 6 | [L9110s Motortreibermodul ](http://www.amazon.de/dp/B00WQPIOU0) | L9110 Motortreibermodul | 21.2.2016 | ? | 10,32 | März Gerste (über Amazon) |
-| 4 | [3-6V DC Getriebemotor](http://www.amazon.de/dp/B008OAYP8Q) | Getriebemotor | 21.2.2016 | ? | 13,32 | März Gerste (über Amazon) |
+| 6 | [L9110s Motortreibermodul ](http://www.amazon.de/dp/B00WQPIOU0) | L9110 Motortreibermodul | 21.2.2016 | 12.3.2016 | 10,32 | März Gerste (über Amazon) |
+| 4 | [3-6V DC Getriebemotor](http://www.amazon.de/dp/B008OAYP8Q) | Getriebemotor | 21.2.2016 | 12.3.2016 | 13,32 | März Gerste (über Amazon) |
 | 5 | [LM2596S](http://www.amazon.de/dp/B00Q8753KQ/) | Regelbarer DC-DC Step-Down Schaltregler | 30.1.2016 | 3 Tage | 9,49€ | tinxi.com GmbH (über Amazon) |
 | 8 | [Kraftmax Panasonic Eneloop AAA](http://www.amazon.de/gp/product/B00KNVNK5S) | NiMH Akku AAA | 26.1.2016 | 3 Tage | 15,97€ | Amazon |
 | 1 | [Digitus USB auf Seriell DB9 Adapter](http://www.amazon.de/gp/product/B0030IT780) | USB auf RS232-Adapter | 18.1.2016 | 3 Tage | 10,99€ | Amazon |
