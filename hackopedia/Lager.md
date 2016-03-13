@@ -8,6 +8,7 @@ permalink: /hackopedia/Lager
 
 | Anzahl | Bezeichnung | Beschreibung | Bestelldatum | Lieferzeit | Gesamtpreis | Lieferant |
 | --- | --- | --- | --- | --- | --- | --- |
+| 1 | [iMAX B6AC](http://www.ebay.de/itm/182042386467) | LiPo Ladegerät | 13.3.2016 | ? | 25,79 (+4,99) | [3c-uk](http://www.ebay.de/usr/3c-uk) |
 | 1 | [LED](http://www.ebay.de/itm/391305534063) | LED-Sortiment mit 200 LEDs | 4.3.2016 | ? | 3,99 (+1,68) | [heavends](http://www.ebay.de/usr/heavends) |
 | 50 | [RGB-LED](http://www.ebay.de/itm/141321602676) | RGB-LED mit gemeinsamer Anode | 4.3.2016 | ? | 3,00 | [geniusartgallery](www.ebay.de/usr/geniusartgallery) |
 | 1 | [LiPo-Tester](http://www.ebay.de/itm/161950980869) | 1-8 Zellen LiPo-Tester mit Anzeige | 4.3.2016 | ? | 2,09 | [womenfashion4evernew](http://www.ebay.de/usr/womenfashion4evernew) |
