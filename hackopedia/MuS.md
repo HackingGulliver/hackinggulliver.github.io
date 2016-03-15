@@ -9,6 +9,7 @@ Auf den folgenden Seiten stelle ich die verwendeten Sensoren und mechtronischen 
 ## Mechatronik
 
 * [Einfacher Elektromotor](/hackopedia/EinfacherMotor)
+* [Winzig kleiner Getriebemotor](/hackopedia/Minigetriebemotor)
 * [Schrittmotor 28BYJ-48](/hackopedia/28BYJ-48)
 * [Schrittmotor AEG](/hackopedia/SchrittmotorAEG)
 
