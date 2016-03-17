@@ -14,7 +14,7 @@ permalink: /hackopedia/Lager
 | 1 | [LED](http://www.ebay.de/itm/391305534063) | LED-Sortiment mit 200 LEDs | 4.3.2016 | 16.3.2016 | 3,99 (+1,68) | [heavends](http://www.ebay.de/usr/heavends) |
 | 50 | [RGB-LED](http://www.ebay.de/itm/141321602676) | RGB-LED mit gemeinsamer Anode | 4.3.2016 | ? | 3,00 | [geniusartgallery](www.ebay.de/usr/geniusartgallery) |
 | 1 | [LiPo-Tester](http://www.ebay.de/itm/161950980869) | 1-8 Zellen LiPo-Tester mit Anzeige | 4.3.2016 | ? | 2,09 | [womenfashion4evernew](http://www.ebay.de/usr/womenfashion4evernew) |
-| 1 | [2S-3S Lipo Low Voltage Checker](http://www.ebay.de/itm/191716987655) | 2-3 LiPo-Zellen-Checker (LED) | 4.3.2016 | ? | 2,45 (+0,99) | [bobowaytoway](http://www.ebay.de/usr/bobowaytoway) |
+| 1 | [2S-3S Lipo Low Voltage Checker](http://www.ebay.de/itm/191716987655) | 2-3 LiPo-Zellen-Checker (LED) | 4.3.2016 | 17.3.2016 | 2,45 (+0,99) | [bobowaytoway](http://www.ebay.de/usr/bobowaytoway) |
 | 5 | [Arduino Pro Mini 5V 16MHz](http://www.ebay.de/itm/201339780220) | Arduino Pro Mini | 21.2.2016 | 1 Woche | 14,79 | [fashionfovs](http://www.ebay.de/usr/fashionfovs) |
 | 5 | [433 MHz Sender Empfänger](http://www.ebay.de/itm/201312653471) | 433 MHz Sender Empfänger | 21.2.2016 | 1 Woche | 5,20 (+2,19) | [fashionfovs](http://www.ebay.de/usr/fashionfovs) |
 | 5 | [FT232RL](http://www.ebay.de/itm/201416427225) | USB-Adapter für Arduino | 21.2.2016 | 1 Woche | 2,99 (+1,99) | [fashionfovs](http://www.ebay.de/usr/fashionfovs) |
