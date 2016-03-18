@@ -8,6 +8,7 @@ permalink: /hackopedia/Lager
 
 | Anzahl | Bezeichnung | Beschreibung | Bestelldatum | Lieferzeit | Gesamtpreis | Lieferant |
 | --- | --- | --- | --- | --- | --- | --- |
+| 100 | [LED weiß 5mm](ww.ebay.de/itm/401057991064) | weiße LED 5mm 20000 mCD | 19.3.2016 | ? | 1,39 | [ddl20072008](http://www.ebay.de/usr/ddl20072008) |
 | 1 | [FLOUREON 11.1V 1300mAh 3S](http://www.ebay.de/itm/381493534405) | LiPo 3S | 13.3.2016 | 15.3.2016 | 14,99 | [journeyofambition](http://www.ebay.de/usr/journeyofambition) |
 | 1 | [FLOUREON 11.1V 1000mAh 3S](http://www.ebay.de/itm/281745744579) | LiPo 3S | 13.3.2016 | 17.3.2016 | 8,90 | [onlines2offlines](http://www.ebay.de/usr/onlines2offlines) |
 | 1 | [iMAX B6AC](http://www.ebay.de/itm/182042386467) | LiPo Ladegerät | 13.3.2016 | 15.3.2016 | 25,79 (+4,99) | [3c-uk](http://www.ebay.de/usr/3c-uk) |
