@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mechatronik und Sensoren
+title: Minigetriebemotor
 permalink: /hackopedia/Minigetriebemotor
 ---
 

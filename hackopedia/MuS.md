@@ -13,6 +13,10 @@ Auf den folgenden Seiten stelle ich die verwendeten Sensoren und mechtronischen 
 * [Schrittmotor 28BYJ-48](/hackopedia/28BYJ-48)
 * [Schrittmotor AEG](/hackopedia/SchrittmotorAEG)
 
+## Opto-Elektronik
+
+* [LED-Adapterkabel](/hackopedia/LED-Adapterkabel)
+
 ## Sensoren
 
 * [Optoreflexkoppler CNY70](/hackopedia/CNY70)
