@@ -14,4 +14,6 @@ Das Ganze wird an den Enden mit Schrumpfschlauch geschützt. Rote und schwarze S
 
 <img src="/images/LED_Buchse.JPG" alt="LED-Buchse" width="600px" />
 <img src="/images/LED_SteckerMitWiderstand.JPG" alt="LED-Stecker mit Vorwiderstand" width="600px" />
+
+Die Adapterkabel verwende ich mit 5mm-LEDs. Diese passen perfekt in die Löcher der Lego Lochbalken.
  
