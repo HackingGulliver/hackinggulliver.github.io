@@ -4,7 +4,7 @@ title: Mechatronik und Sensoren
 permalink: /hackopedia/MuS
 ---
 
-Auf den folgenden Seiten stelle ich die verwendeten Sensoren, mechtronischen Bauteile wie z.B. Elektromotoren und elektrische Adapter für die Lego-Welt vor.
+Auf den folgenden Seiten stelle ich die verwendeten Sensoren und mechtronischen Bauteile wie z.B. Elektromotoren vor.
 
 ## Mechatronik
 
@@ -13,17 +13,10 @@ Auf den folgenden Seiten stelle ich die verwendeten Sensoren, mechtronischen Bau
 * [Schrittmotor 28BYJ-48](/hackopedia/28BYJ-48)
 * [Schrittmotor AEG](/hackopedia/SchrittmotorAEG)
 
-## Opto-Elektronik
-
-* [LED-Adapterkabel](/hackopedia/LED-Adapterkabel)
 
 ## Sensoren
 
 * [Optoreflexkoppler CNY70](/hackopedia/CNY70)
-
-## elektische Lego-Adapter
-
-* [Adapter für PowerFunctions-Kabel](/hackopedia/PowerFunctionsAdapter)
 
 
 
