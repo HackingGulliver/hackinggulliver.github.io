@@ -16,12 +16,12 @@ Um die Akkus mit Lego nutzen zu können, brauche ich einen Adapter mit folgenden
 
 * Betrieb am Balacer-Stecker der Akkus. (Für die richtige Power gibt es verschiedene Steckerformate, aber der Balancer-Anschluss ist normiert und für die von mir benötigten Ströme vollkommen ausreichend.)
 * Ausgangsspannungen:
-   * 9-12,6V (Nennspannung 11,1V) (Also volle Spannung aus dem 3S-Akku) 
+   * 9,9-12,6V (Nennspannung 11,1V) (Also volle Spannung aus dem 3S-Akku) 
    * 5V (zur Versorgung von Raspi und Arduino) über einstellbaren [Schaltregler](http://www.amazon.de/dp/B00Q8753KQ/)
    * 3-Pin-Stecker
 * Ein/Aus-Schalter
 * 10A-Sicherung (damit mir der Akku bei einem Kurzschluss nicht um die Ohren fliegt)
-* Einzelüberwachung der drei Akkuzellen auf Unterspannung durch einen [LiPo-Tester](http://www.ebay.de/itm/191716987655).
+* Einzelüberwachung der drei Akkuzellen auf Unterspannung durch einen [LiPo-Tester](http://www.ebay.de/itm/191716987655). Dieser Tester fängt an zu piepen, sobald eine Zelle 3,3V unterschreitet. Daher ergibt sich im besten Fall eine Minimalgesamtspannung von 9,9V am Ausgang. Da die Zellen aber nie gleichmäßig entladen werden, wird die Ausgangsspannung normalerweise noch über 10V liegen, wenn der Akku gewechselt werden muss.
 
 ## Entwicklung
 Die Schaltung ließ sich sehr leicht mit [KiCad](http://kicad-pcb.org/) entwerfen. Der Schaltplan sieht so aus:
