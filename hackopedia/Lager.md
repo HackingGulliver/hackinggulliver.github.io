@@ -8,6 +8,8 @@ permalink: /hackopedia/Lager
 
 | Anzahl | Bezeichnung | Beschreibung | Bestelldatum | Lieferzeit | Gesamtpreis | Lieferant |
 | --- | --- | --- | --- | --- | --- | --- |
+| 1 | [Mini Gas Brenner](http://www.ebay.de/itm/271738703757) | Mini Gas Brenner | 2.6.2016 | --- | 6,99 | [niboline](http://www.ebay.de/usr/niboline) |
+| 1 | [Entlötsauger](http://www.ebay.de/itm/300693889841) | Entlötsaugpumpe | 2.6.2016 | --- | 6,50 (+1,90) | [euroelectronics_eu](http://www.ebay.de/usr/euroelectronics_eu) |
 | 100 | [LED weiß 5mm](http://www.ebay.de/itm/401057991064) | weiße LED 5mm 20000 mCD | 19.3.2016 | 6.4.2016 | 1,39 | [ddl20072008](http://www.ebay.de/usr/ddl20072008) |
 | 1 | [FLOUREON 11.1V 1300mAh 3S](http://www.ebay.de/itm/381493534405) | LiPo 3S | 13.3.2016 | 15.3.2016 | 14,99 | [journeyofambition](http://www.ebay.de/usr/journeyofambition) |
 | 1 | [FLOUREON 11.1V 1000mAh 3S](http://www.ebay.de/itm/281745744579) | LiPo 3S | 13.3.2016 | 17.3.2016 | 8,90 | [onlines2offlines](http://www.ebay.de/usr/onlines2offlines) |
