@@ -8,7 +8,7 @@ permalink: /hackopedia/Lager
 
 | Anzahl | Bezeichnung | Beschreibung | Bestelldatum | Lieferzeit | Gesamtpreis | Lieferant |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Geeetech Prusa i3](http://www.ebay.de/itm/331998257600) | 3D Drucker | 15.1.2017 | xx.01.2017 | 199,00 | [geeetech-official](http://www.ebay.de/usr/geeetech-official) |
+| 1 | [Geeetech Prusa i3](http://www.ebay.de/itm/331998257600) | 3D Drucker | 15.1.2017 | 17.01.2017 | 199,00 | [geeetech-official](http://www.ebay.de/usr/geeetech-official) |
 | 25 | [Zener-Dioden 4,7V](http://www.ebay.de/itm/150850242005) | Zener-Dioden 4,7V | 17.6.2016 | 21.6.2016 | 1,00 (+1,95) | [diy-audio4you](http://www.ebay.de/usr/diy-audio4you) |
 | 1 | [Mini Gas Brenner](http://www.ebay.de/itm/271738703757) | Mini Gas Brenner | 2.6.2016 | 4.6.2016 | 6,99 | [niboline](http://www.ebay.de/usr/niboline) |
 | 1 | [Entlötsauger](http://www.ebay.de/itm/300693889841) | Entlötsaugpumpe | 2.6.2016 | --- | 6,50 (+1,90) | [euroelectronics_eu](http://www.ebay.de/usr/euroelectronics_eu) |
