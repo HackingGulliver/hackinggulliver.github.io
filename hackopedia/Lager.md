@@ -8,6 +8,8 @@ permalink: /hackopedia/Lager
 
 | Anzahl | Bezeichnung | Beschreibung | Bestelldatum | Lieferzeit | Gesamtpreis | Lieferant |
 | --- | --- | --- | --- | --- | --- | --- |
+| 1 | [PETG Filament](http://www.ebay.de/itm/391665538570) | PETG-Filament-1-75-mm-1000g-blau | 12.3.2017 | .03.2017 | 23,00 (+4,00) | [ melchermax](http://www.ebay.de/usr/ melchermax) |
+| 1 | [MK8 Extruder Metal Parts](http://www.ebay.de/itm/262583770325) | Metallteile für MK8-Extuder | 23.3.2017 | 4.03.2017 | 4,03 (+0,71) | [beyondnow](http://www.ebay.de/usr/beyondnow) |
 | 1 | [Geeetech Prusa i3](http://www.ebay.de/itm/331998257600) | 3D Drucker | 15.1.2017 | 17.01.2017 | 199,00 | [geeetech-official](http://www.ebay.de/usr/geeetech-official) |
 | 25 | [Zener-Dioden 4,7V](http://www.ebay.de/itm/150850242005) | Zener-Dioden 4,7V | 17.6.2016 | 21.6.2016 | 1,00 (+1,95) | [diy-audio4you](http://www.ebay.de/usr/diy-audio4you) |
 | 1 | [Mini Gas Brenner](http://www.ebay.de/itm/271738703757) | Mini Gas Brenner | 2.6.2016 | 4.6.2016 | 6,99 | [niboline](http://www.ebay.de/usr/niboline) |
